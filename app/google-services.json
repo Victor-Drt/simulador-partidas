@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056019645887",
+    "project_id": "simulator-dio-santander-86f7a",
+    "storage_bucket": "simulator-dio-santander-86f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056019645887:android:45c38669fd648025c68d0a",
+        "android_client_info": {
+          "package_name": "me.dio.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056019645887-l7dihsr4lf4468rm0mnbum7t51vdqarh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB__7Zx1PuNPFxmGCC8e3OZacNzaSFlukM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056019645887-l7dihsr4lf4468rm0mnbum7t51vdqarh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

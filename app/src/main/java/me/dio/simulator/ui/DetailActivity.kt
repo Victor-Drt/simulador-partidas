@@ -32,6 +32,7 @@ class DetailActivity : AppCompatActivity() {
             supportActionBar?.title = it.place.name
 
             binding.tvDescription.text = it.description
+
             Glide.with(this).load(it.homeTeam.image).into(binding.ivHomeTeam)
             binding.tvHomeTeamName.text = it.homeTeam.name
             binding.rbHomeTeamStars.rating = it.homeTeam.stars.toFloat()
